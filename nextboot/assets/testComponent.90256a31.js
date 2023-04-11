@@ -1,0 +1,1 @@
+import{a as t,z as o,o as n,i as a,t as s}from"./index.9eb451d3.js";const u=t({__name:"testComponent",setup(r){const e=o("\u4F60\u597D\u554A");return(l,c)=>(n(),a("div",null," hello "+s(e.value),1))}});export{u as default};
