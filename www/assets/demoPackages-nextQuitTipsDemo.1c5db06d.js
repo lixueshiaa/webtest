@@ -1,0 +1,1 @@
+import{d as s,o,l as a,w as e,f as p,i as t}from"./index-6b2c0750.js";import{o as n,a as l,b as i}from"./uni-app.es.0f833092.js";const u=s({__name:"nextQuitTipsDemo",setup:s=>(n((()=>{console.log("App Launch")})),l((()=>{console.log("App Show")})),i((()=>{console.log("App Hide")})),(s,n)=>{const l=t;return o(),a(l,null,{default:e((()=>[p("test")])),_:1})})});export{u as default};
